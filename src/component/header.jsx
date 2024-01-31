@@ -7,10 +7,11 @@ const Header= () => {
         <a href="#" className="text-white m-3 p-2 hover:bg-yellow-900 hover:bg-opacity-20 hover:rounded-md hover:text-orange-400">بازارها</a>
         <a href="#" className="text-white m-3 p-2 hover:bg-yellow-900 hover:bg-opacity-20 hover:rounded-md hover:text-orange-400">
             <ul className="">معامله
-                <li className="hidden">تالار معاملات</li>
-                <li className="hidden ">معاملات آنی</li>
+                <li className="hidden hover:block hover:relative">تالار معاملات</li>
+                <li className="hidden hover:block hover:relative">معاملات آنی</li>
                 </ul></a>
-        <a href="#" className="text-white m-3 p-2 hover:bg-yellow-900 hover:bg-opacity-20 hover:rounded-md hover:text-orange-400">آکادمی</a>
+        <a href="#" className="text-white m-3 p-2 hover:bg-yellow-900 hover:bg-opacity-20 hover:rounded-md hover:text-orange-400  flex flex-row-reverse">آکادمی
+        <p className="text-orange-400 bg-yellow-900 bg-opacity-20 text-sm mr-2 px-2 rounded-md">جدید</p></a>
         <a href="#" className="text-white m-3 p-2 hover:bg-yellow-900 hover:bg-opacity-20 hover:rounded-md hover:text-orange-400">راهنمای استفاده</a>
         <a href="#" className="text-white m-3 p-2 hover:bg-yellow-900 hover:bg-opacity-20 hover:rounded-md hover:text-orange-400">بلاگ</a>
         <a href="#" className="text-white m-3 p-2 hover:bg-yellow-900 hover:bg-opacity-20 hover:rounded-md hover:text-orange-400">اپلیکیشن</a>
