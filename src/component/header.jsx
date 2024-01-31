@@ -8,7 +8,7 @@ const Header= () => {
         <a href="#" className="text-white m-3 p-2 hover:bg-yellow-900 hover:bg-opacity-20 hover:rounded-md hover:text-orange-400">
             <ul className="">معامله
                 <li className="hidden">تالار معاملات</li>
-                <li className="hidden hover:">معاملات آنی</li>
+                <li className="hidden ">معاملات آنی</li>
                 </ul></a>
         <a href="#" className="text-white m-3 p-2 hover:bg-yellow-900 hover:bg-opacity-20 hover:rounded-md hover:text-orange-400">آکادمی</a>
         <a href="#" className="text-white m-3 p-2 hover:bg-yellow-900 hover:bg-opacity-20 hover:rounded-md hover:text-orange-400">راهنمای استفاده</a>
