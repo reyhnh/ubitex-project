@@ -1,7 +1,7 @@
 const Main4 = () => {
     return ( 
         <>
-        <div className="flex flex-col">
+        <div className="flex flex-col font-display">
             <div className="flex flex-row-reverse w-full justify-evenly "> 
                 <div>
                     <h1 className="text-orange-400 p-3">ارزهای دیجیتال یوبیتکس</h1>

@@ -5,7 +5,7 @@ const Main1 = () => {
     <div>
         <img/>
     </div>
-    <div className="mt-96 mr-12 text-right">
+    <div className="mt-96 mr-12 text-right font-display">
         <h3 className="text-white m-6 text-2xl">یوبیتکس، پلتفرم مبادلات رمزارزی شما</h3>
         <h1 className="text-orange-400 m-6 text-4xl">معتبرترین صرافی ارز دیجیتالی ایرانی</h1>
         <h3 className="text-white m-6 text-2xl">ارائه‌دهنده خدمات امن و حرفه‌ای بازار ارز دیجیتال</h3>

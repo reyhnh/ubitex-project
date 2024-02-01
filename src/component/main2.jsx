@@ -1,7 +1,7 @@
 const Main2 = () => {
     return ( 
         <>
-        <div className="flex flex-row-reverse text-right m-8  ">
+        <div className="flex flex-row-reverse text-right m-8 font-display ">
             <span className="bg-slate-700 bg-opacity-20 rounded-md h-56 text-white m-3 p-7 ">
             <h1>پشتیبانی بیش از 200 رمزارز</h1>
             <p>امکان خرید و فروش بیش از 200 ارز دیجیتال در یوبیتکس با قیمت و حجم دلخواه</p>
