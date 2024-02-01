@@ -1,7 +1,7 @@
 const Header= () => {
     return ( 
         <>
-        <div className="flex flex-row-reverse bg-slate-800 mt-0 justify-center opacity-90 "> 
+        <div className="flex flex-row-reverse bg-slate-800 mt-0 justify-center opacity-90 font-display"> 
         <svg xmlns="http://www.w3.org/2000/svg" className="w-2 h-2"></svg> 
         <a href="#" className="text-orange-400  bg-yellow-900 bg-opacity-20 rounded-md m-3 p-2">ورود|ثبت نام</a>
         <a href="#" className="text-white m-3 p-2 hover:bg-yellow-900 hover:bg-opacity-20 hover:rounded-md hover:text-orange-400">بازارها</a>
